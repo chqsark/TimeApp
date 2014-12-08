@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.present" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Present</name>
+    <description>
+        Reshaping the thoughts about time
+    </description>
+    <author email="guanwang012@gmail.com" href="">
+        Guan Wang
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="logo.png"         gap:platform="ios"        width="144" height="144" />
+</widget>

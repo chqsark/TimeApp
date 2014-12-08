@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.ui-btn-icon-left:after {
+    width: 0px;
+}
+#present {
+    background: url(../images/universe-tiny.png);
+    background-size: 100% 100%;
+}
+.daysCountdown {
+    position: absolute;
+    right: 50px;
+    z-index: 1;
+}     
+.clockset {
+    position: absolute;
+    right: 10px;
+    margin-right: 70px;
+    top: -3px;
+    width: 50px;
+    height: 50px;
+    margin: 5px auto 0 auto;
+    background: url(../images/colorful.jpg);
+    background-size: 50px, 50px;
+    list-style: none;
+    z-index: 10;
+}   
+
+#clock {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin: 20px auto 0 auto;
+    margin-left: -30px;
+    background: url(../images/clock-universe.gif);
+
+    list-style: none;
+}
+        
+#sec, #min, #hour {
+    position: absolute;
+    width: 30px;
+    height: 200px;
+    top: 0px;
+    left: 191px;
+}
+        
+#sec {
+    background: url(../images/sechand.png);
+    background-size: 15px, 300px;
+    background-repeat: no-repeat;
+    z-index: 3;
+}
+           
+#min {
+    background: url(../images/minhand.png);
+    z-index: 2;
+}
+           
+#hour {
+    background: url(../images/hourhand.png);
+    z-index: 1;
+}
+           	
+p {
+    text-align: center; 
+    padding: 10px 0 0 0;
+}
+
+#pbutton {
+    background-image: url('../images/button1.gif') !important;
+    background-size: 100%;
+    height: 26px;
+}
+
+#fbutton {
+    background-image: url('../images/button2.gif') !important;
+    background-size: 100%;
+    height: 24px;
+}
+
+#addbutton {
+    background-image: url('../images/button2.gif') !important
+}
+
+.mybutton {
+    display: inline !important;
+    height: 32px !important;
+    width: 32px !important;
+}
+
+#present .ui-footer-fixed {
+    text-align: center;
+}
+  
+#tasksPage {
+    background-image: url('../images/universe-tiny2.png') !important;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}  
+
+#addTaskDialog {
+    background-image: url('../images/universe-tiny3.png') !important;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

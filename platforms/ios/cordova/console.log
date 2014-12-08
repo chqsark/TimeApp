@@ -1,0 +1,57 @@
+2014-11-28 08:58:59.828 Present[68501:538672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Data/Application/1A97D231-8506-4394-986F-9CF6BFF25A9F/Library/Cookies/Cookies.binarycookies
+2014-11-28 08:59:00.198 Present[68501:538672] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-28 08:59:00.200 Present[68501:538672] Multi-tasking -> Device: YES, App: YES
+2014-11-28 08:59:00.213 Present[68501:538672] Unlimited access to network resources
+2014-11-28 08:59:00.225 Present[68501:538672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-28 08:59:02.036 Present[68501:538672] Resetting plugins due to page load.
+2014-11-28 08:59:02.526 Present[68501:538672] Finished load of: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Bundle/Application/E379F423-FA6C-49B6-92FB-14E1A2128BF3/Present.app/www/index.html#present
+2014-11-28 09:01:41.008 Present[71348:543075] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Data/Application/44B66147-6B09-4A1E-A2F9-6F38D3DE65E9/Library/Cookies/Cookies.binarycookies
+2014-11-28 09:01:41.177 Present[71348:543075] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-28 09:01:41.178 Present[71348:543075] Multi-tasking -> Device: YES, App: YES
+2014-11-28 09:01:41.180 Present[71348:543075] Unlimited access to network resources
+2014-11-28 09:01:41.182 Present[71348:543075] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-28 09:01:41.567 Present[71348:543075] Resetting plugins due to page load.
+2014-11-28 09:01:41.973 Present[71348:543075] Finished load of: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Bundle/Application/7F27D837-0BB3-4640-8446-059CA6ABA05F/Present.app/www/index.html#present
+2014-11-28 09:18:50.599 Present[72429:551501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Data/Application/C83989A0-2F4B-4DEE-9DAC-6765ADEC64C5/Library/Cookies/Cookies.binarycookies
+2014-11-28 09:18:50.721 Present[72429:551501] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-28 09:18:50.722 Present[72429:551501] Multi-tasking -> Device: YES, App: YES
+2014-11-28 09:18:50.723 Present[72429:551501] Unlimited access to network resources
+2014-11-28 09:18:50.726 Present[72429:551501] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-28 09:18:51.159 Present[72429:551501] Resetting plugins due to page load.
+2014-11-28 09:18:51.512 Present[72429:551501] Finished load of: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Bundle/Application/37EA4340-4D1F-4B55-8D12-971C7D5D3D4E/Present.app/www/index.html#present
+2014-11-28 09:19:14.199 Present[74263:553699] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Data/Application/1941746A-D3CA-495F-954D-22A50A7F88D7/Library/Cookies/Cookies.binarycookies
+2014-11-28 09:19:14.350 Present[74263:553699] Apache Cordova native platform version 3.7.0 is starting.
+2014-11-28 09:19:14.350 Present[74263:553699] Multi-tasking -> Device: YES, App: YES
+2014-11-28 09:19:14.352 Present[74263:553699] Unlimited access to network resources
+2014-11-28 09:19:14.358 Present[74263:553699] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-11-28 09:19:14.751 Present[74263:553699] Resetting plugins due to page load.
+2014-11-28 09:19:15.227 Present[74263:553699] Finished load of: file:///Users/gwang/Library/Developer/CoreSimulator/Devices/57EC9CE8-8F9A-4BCC-8EA3-443F7B71AC31/data/Containers/Bundle/Application/736F2B69-F1F7-4A00-BBAC-ED9F21DE2049/Present.app/www/index.html#present
+2014-11-28 09:19:26.077 Present[74263:553724] Terminating since there is no system app.
